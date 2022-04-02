@@ -15,8 +15,8 @@
 ### HTML & CSS: 
  Responsible Web design (Flex-box, Grid, MQs, etc),
  Boostrap,
- SASS,
- SEO good practices,
+ SASS &
+ SEO good practices
 
 ### And much more!
 
