@@ -1,7 +1,5 @@
 ### Hi there i'm Juan nice to meet you 👋
 
-I’m currently learning React JS
-
 ### Skill list:
 
 ### Javascript:
