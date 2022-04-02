@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there i'm Juan nice to meet you 👋
 
-<!--
-**Buanchi/Buanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning React JS
 
-Here are some ideas to get you started:
+### Skill list:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Javascript:
+ Algorithm and data structures,
+ Poo,
+ Events & DOM manipulation,
+ HTML browser API's (Geolocation, Web storage, IndexedDb, File, Drag & drop, etc),
+ AJAX (Fetch, XMLHttpRequest, Axios),
+ ASYNC await,
+ JSON,
+ Regular expressions, etc
+
+### HTML & CSS: 
+ Responsible Web design (Flex-box, Grid, MQs, etc),
+ Boostrap,
+ SASS,
+ SEO good practices,
+
+### And much more!
+
+Currently learning React JS library :) 
+
+I also like to do low level programming in C
+
+My career study plan: 
+https://web.upe.edu.ar/wp-content/uploads/2020/02/PLAN-DE-ESTUDIO-UPE-Tecnicatura-Universitaria-en-Desarrollo-de-Software.pdf
