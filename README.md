@@ -13,7 +13,7 @@
  Regular expressions, etc
 
 ### HTML & CSS: 
- Responsible Web design (Flex-box, Grid, MQs, etc),
+ Responsive Web design (Flex-box, Grid, MQs, etc),
  Boostrap,
  SASS &
  SEO good practices
