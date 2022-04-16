@@ -1,16 +1,20 @@
 # Hi there i'm Juan nice to meet you 👋
 
-## Strong Skills:
+## Strong front-end Skills:
 
-### Javascript
+### Javascript, JSON, ASYNC, 
 
 ### Responsive Web design, HTML & CSS, SASS, Boostrap 
 
-## Good skills: 
+### UX/UI design
+
+## Good back-end skills: 
 
 ### Node js
 
 ### Express
+
+### PUG
 
 ### Mongo DB
 
