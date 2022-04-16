@@ -6,7 +6,7 @@
 
   Good back-end & db notions of node js, Express, PUG, Mongo DB, data base design & administration in mySQL
 
-## And much more!
+  And much more!
 
   Currently learning React JS library :) 
  
