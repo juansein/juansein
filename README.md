@@ -1,12 +1,12 @@
-### Hi there i'm Juan nice to meet you 👋
+# Hi there i'm Juan nice to meet you 👋
 
-### Strong Skills:
+## Strong Skills:
 
 ### Javascript
 
 ### Responsive Web design, HTML & CSS, SASS, Boostrap 
 
-### Good skills: 
+## Good skills: 
 
 ### Node js
 
