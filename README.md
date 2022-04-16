@@ -2,7 +2,7 @@
 
 ## Strong front-end Skills:
 
-### Javascript, JSON, ASYNC, Poo, Event & DOM
+### Javascript, JSON, ES6+, ASYNC, Browser API's
 
 ### Responsive Web design, HTML & CSS, SASS, Boostrap 
 
