@@ -1,22 +1,18 @@
 ### Hi there i'm Juan nice to meet you 👋
 
-### Skill list:
+### Strong Skills:
 
-### Javascript:
- Algorithm and data structures,
- Poo,
- Events & DOM manipulation,
- HTML browser API's (Geolocation, Web storage, IndexedDb, File, Drag & drop, etc),
- AJAX (Fetch, XMLHttpRequest, Axios),
- ASYNC await,
- JSON,
- Regular expressions, etc
+### Javascript
 
-### HTML & CSS: 
- Responsive Web design (Flex-box, Grid, MQs, etc),
- Boostrap,
- SASS &
- SEO good practices
+### Responsive Web design, HTML & CSS, SASS, Boostrap 
+
+### Good skills: 
+
+### Node js
+
+### Express
+
+### Mongo DB
 
 ### And much more!
 
