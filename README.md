@@ -18,7 +18,7 @@
 
 ### Mongo DB
 
-### And much more!
+## And much more!
 
 Currently learning React JS library :) 
 
