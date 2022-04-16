@@ -2,21 +2,21 @@
 
 ## Strong front-end Skills:
 
-### Javascript, JSON, ES6+, ASYNC, Browser API's
+ Javascript, JSON, ES6+, ASYNC, Browser API's
 
-### Responsive Web design, HTML & CSS, SASS, Boostrap 
+ Responsive Web design, HTML & CSS, SASS, Boostrap 
 
-### UX/UI design
+ UX/UI design
 
 ## Good back-end skills: 
 
-### Node js
+ Node js
 
-### Express
+ Express
 
-### PUG
+ PUG
 
-### Mongo DB
+ Mongo DB
 
 ## And much more!
 
