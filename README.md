@@ -2,9 +2,9 @@
 
 ## About me: 
 
-  Strong front-end knowledge of React JS, ES6+, HTML, CSS3+, UX/UI design, CSS frameworks and responsive web design
-
-  Good back-end & db notions of node js, Express, PUG, Mongo DB, data base design & administration in mySQL
+  Solid Front-end knowledge in ES6+, HTML, CSS3+, UX/UI design, CSS frameworks and responsive web design
+  
+  Basic knowledge of Back-end in node JS, Express, PUG and Mongo DB
 
   And much more!
 
