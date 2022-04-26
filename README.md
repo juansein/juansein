@@ -1,15 +1,6 @@
-# Hello! Thanks for stopping by :) I'm Juan, junior developer 
+I am a Software Developer currently studying at the Ezeiza college. I love solving problems and creating software, I also love to keep adding new knowledge to my repertoire and improve my profile as a professional. My main focus in development is full-stack and the technologies I handle are: 
+Javascript / ES6+, HTML5, CSS3, Bootstrap, GIT, React, Node JS, Express, Mongo DB & SQL, Java and C 
 
-## These are my current skills:
+Portfolio: https:/ /juansein.github.io/portfolio/ 
 
-  Front-end knowledge in Javascript / ES6+, HTML5, CSS3 and React Js
-  
-  Back-end knowledge in node JS, Express, PUG, Mongo DB & SQL
-  
-  Knowledge in Java
-  
-  Knowledge in C
-  
-  Knowledge in GIT
-
-My portfolio: https://juansein.github.io/portfolio/
+Github: https://github.com/juansein
