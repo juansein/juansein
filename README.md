@@ -1,4 +1,4 @@
-IAM consultant, currently studying Software Development. Code is my passion :)
+IAM consultant, currently studying Software Development. IT is my passion :)
 
 C, Java, SQL, REST, Node JS, Javascript (ES6+), HTML, CSS, React JS
 
