@@ -1,6 +1,6 @@
-I am a passionate computer science student currently studying Software Development at the University of Ezeiza. I love challenges and solving problems. The technologies i handle:
+IAM consultant, currently studying Software Development. Code is my passion :)
 
-Javascript / ES6+, HTML5, CSS3, Bootstrap, GIT, Node JS, SQL, Java and C 
+C, Java, SQL, REST, Node JS, Javascript (ES6+), HTML, CSS, React JS
 
 Portfolio: https://juansein.github.io/portfolio/ 
 
